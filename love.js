@@ -1,5 +1,5 @@
-var Yname = document.getElementById("your-name").value;
-var Pname = document.getElementById("partner-name").value;
+var Yname = document.getElementById("#your-name").value;
+var Pname = document.getElementById("#partner-name").value;
 
 function myScore(){
 var lovescore = Math.random() * 100;
